@@ -21,7 +21,7 @@ There are 3 enpoints to run:
 - `GET /statistics`
 - `GET /statistics/{instrument}`
 
-There is also a postman collection ready at docs/postman_collection.json
+There is also a postman collection ready at `docs/Solactive.postman_collection.json`
 
 ## Assumptions
 
